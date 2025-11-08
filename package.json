@@ -1,0 +1,14 @@
+{
+  "name": "coding-challenge",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch ./index.js"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "packageManager": "pnpm@10.12.2",
+  "dependencies": {
+    "@clack/prompts": "0.11.0"
+  }
+}
